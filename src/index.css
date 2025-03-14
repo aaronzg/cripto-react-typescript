@@ -83,3 +83,9 @@ body {
   background-color: #0cb387;
 }
 
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
